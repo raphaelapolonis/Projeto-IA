@@ -7,10 +7,10 @@ A proposta é reduzir a necessidade de análise manual, que é trabalhosa em gra
 
 👥 Integrantes
 
-Maria Gabriela Barros – RA: 10409037 – 10409037@mackenzista.com.br
-Raphaela Polonis – RA: 10408843 – 10408843@mackenzista.com.br
-Felipe Carvalho – RA: 1049804 – 104098043@mackenzista.com.br
-Bruno Gustavo Rocha – RA: 10400926 – 10400926@mackenzista.com.br
+- Maria Gabriela Barros – RA: 10409037 – 10409037@mackenzista.com.br
+- Raphaela Polonis – RA: 10408843 – 10408843@mackenzista.com.br
+- Felipe Carvalho – RA: 1049804 – 104098043@mackenzista.com.br
+- Bruno Gustavo Rocha – RA: 10400926 – 10400926@mackenzista.com.br
 
 
 📊 Dataset Utilizado
