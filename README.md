@@ -88,7 +88,7 @@ Formato:
    - `books_pt_neg.txt`  
    no diretório raiz do projeto.  
 4. Execute o notebook:  
-   - `Projeto_IA.ipynb`
+   - `analise_exploratoria.ipynb`
 
 ---
 
